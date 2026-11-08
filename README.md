@@ -1,6 +1,5 @@
 # 💫 About Me:
-Diploma in Computer Engineering student with hands-on experience in Python, Machine Learning, SQL, and data preprocessing. <br>Developed machine learning projects involving regression and classification using Scikit-learn. Interested in AI/ML and Data Analytics, seeking an internship to apply technical knowledge, strengthen problem-solving skills, and contribute to real-world projects.
-
+Hi there! I'm a budding Computer Engineering Student with a deep curiosity for how things work under the hood. Currently, I am sharpening my skills in Machine-learning and Python while building open-source projects to solve real-world problems. I love diving into documentation, learning new frameworks on the fly, and turning creative logic into functional code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreeram-kate-146135389) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreeramkate5541@gmail.com) 
